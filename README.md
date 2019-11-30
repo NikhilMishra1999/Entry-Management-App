@@ -18,12 +18,11 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 ### Follow the Working section to see the functionality of the app.
 
 ## Screenshots
-<p>
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/MainActivity.jpg" width="200" height="500" />
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/signup.jpg" width="200" height="500" />
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/login.jpg" width="200" height="500" />
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/FirstActivity.jpg" width="200" height="500"/>
-</p>
+
+  https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/MainActivity.jpg
+  https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/signup.jpg
+  https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/login.jpg 
+  https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/FirstActivity.jpg
 
 ## Working
 1. User signs in to the application with Sign-In Verification provided by firebase. 
