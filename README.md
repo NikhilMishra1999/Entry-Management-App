@@ -10,8 +10,9 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 ## Assumptions
 1. There is a single host.
 2. There can be multiple users.
-2. One user can plan only one visit until he/she checks out of the current visit.
-3. Host Name and address visited details are fixed.
+
+## Limitations
+1. User does not get email after the checkout.
 
 ### Internet connection is must for running the app.
 
@@ -19,10 +20,10 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 
 ## Screenshots
 <p>
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/MainActivity.jpg" width="300" height="500" />
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/signup.jpg" width="300" height="500" />
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/login.jpg" width="300" height="500" />
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/FirstActivity.jpg" width="300" height="500" />
+  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/MainActivity.jpg" width="450" height="500" />
+  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/signup.jpg" width="450" height="500" />
+  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/login.jpg" width="450" height="500" />
+  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/FirstActivity.jpg" width="450" height="500" />
 </p>
 
 ## Working
