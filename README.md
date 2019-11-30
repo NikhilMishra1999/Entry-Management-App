@@ -27,5 +27,5 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 
 ## Working
 1. User signs in to the application with Sign-In Verification provided by firebase. 
-2. On the off chance that client needs to begin another appointment, they will fill a Sign-Up form and details are sent to the host/database.
+2. On the off chance that user needs to begin another appointment, they will fill a Sign-Up form and details are sent to the host/database.
 3. On the off chance that there is an on-going appointment for the present guest , he/she gets a choice to checkout of the appointment.
