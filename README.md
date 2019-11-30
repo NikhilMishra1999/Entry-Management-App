@@ -13,17 +13,16 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 
 ## Limitations
 1. User does not get email after the checkout.
+2. Internet connection is must for running the app.
 
-### Internet connection is must for running the app.
-
-#### Follow the Working section to see the functionality of the app.
+### Follow the Working section to see the functionality of the app.
 
 ## Screenshots
 <p>
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/MainActivity.jpg" width="450" height="500" />
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/signup.jpg" width="450" height="500" />
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/login.jpg" width="450" height="500" />
-  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/FirstActivity.jpg" width="450" height="500" />
+  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/MainActivity.jpg" width="200" height="500" />
+  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/signup.jpg" width="200" height="500" />
+  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/login.jpg" width="200" height="500" />
+  <img src="https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/FirstActivity.jpg" width="200" height="500" />
 </p>
 
 ## Working
