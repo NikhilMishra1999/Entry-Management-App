@@ -28,6 +28,6 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 </p>
 
 ## Working
-1. User logs in to the application with Google Log-In Authentication provided by firebase.
+1. User logs in to the application with Log-In Authentication provided by firebase.
 2. If user has to start a new appointment , they will fill a Sign-Up form and details are sent to the host/database.
 3. If there is an on going appointment for the current visitor , he/she gets an option to checkout of the appointment.
