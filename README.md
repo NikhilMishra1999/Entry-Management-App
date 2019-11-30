@@ -19,9 +19,9 @@ SDE Intern Assignment for Innovaccer summergeeks 2020.
 
 ## Screenshots
 
-  ![Main Activity](https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/MainActivity.jpg)
-  ![Signup Page](https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/signup.jpg)
-  ![Login Page](https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/login.jpg)
+  ![Main Activity](https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/MainActivity.jpg?raw=true)
+  ![Signup Page](https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/signup.jpg?raw=true)
+  ![Login Page](https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/login.jpg?raw=true)
   ![Dashboard](https://github.com/NikhilMishra1999/Entry-Management-App/tree/master/Screenshots/FirstActivity.jpg?raw=true)
   
  
